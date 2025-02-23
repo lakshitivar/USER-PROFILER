@@ -1,0 +1,11 @@
+{
+  "name": "user_profiler",
+  "version": "1.0.0",
+  "description": "basic backend and the frontend implemented using the mern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakshit Kumar",
+  "license": "ISC"
+}
