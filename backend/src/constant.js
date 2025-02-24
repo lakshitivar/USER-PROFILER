@@ -1,1 +1,1 @@
-export const DB_NAME = "BASIC CONNECTION";
+export const DB_NAME = "User_profiler";
